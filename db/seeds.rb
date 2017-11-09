@@ -13,3 +13,4 @@ File.open("#{Rails.root}/db/tarifassoat2017.txt") do |tarifas|
     TarifaSoat.create!(:tipo => tipo, :clasif1 => clasif1, :clasif2 => clasif2, :valor => valor)
   end
 end
+AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
