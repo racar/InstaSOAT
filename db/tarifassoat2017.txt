@@ -1,1 +1,36 @@
-CICLOMOTOR|||153.860|MOTOS|Menos de 100 c.c.||306.260|MOTOS|Entre 100 y 200 c.c.||410.660|MOTOS|Mas de 200 c.c.||463.010|MOTO CARRO, TRICIMOTO Y CUADRICICLO|||463.010|CAMPEROS Y CAMIONETAS|Menos de 1.500 c.c.|Menos de 10 años|491.810|CAMPEROS Y CAMIONETAS|Menos de 1.500 c.c.|10 o mas años|591.410|CAMPEROS Y CAMIONETAS|Entre  1.500 y 2.500 c.c.|Menos de 10 años|587.210|CAMPEROS Y CAMIONETAS|Entre  1.500 y 2.500 c.c.|10 o mas años|695.660|CAMPEROS Y CAMIONETAS|Mas de 2.500 c.c.|Menos de 10 años|688.760|CAMPEROS Y CAMIONETAS|Mas de 2.500 c.c.|10 o mas años|790.460|CARGA O MIXTO|Menos de 5 Toneladas||551.060|CARGA O MIXTO|Entre 5 y 15 Toneladas||795.710|CARGA O MIXTO|Mas de 15 Toneladas||1.006.010|OFICIALES ESPECIALES|Menos de 1.500 c.c.||620.060|OFICIALES ESPECIALES|Entre de 1.500 y 2.500 c.c.||781.610|OFICIALES ESPECIALES|Mas de 2.500 c.c.||937.010|VEHICULOS FAMILIARES|Menos de 1.500 c.c.|Menos de 10 años|277.460|VEHICULOS FAMILIARES|Menos de 1.500 c.c.|10 o mas años|367.760|VEHICULOS FAMILIARES|Entre 1.500 y 2.500 c.c.|Menos de 10 años|337.910|VEHICULOS FAMILIARES|Entre 1.500 y 2.500 c.c.|10 o mas años|420.260|VEHICULOS FAMILIARES|Mas de 2.500 c.c.|Menos de 10 años|394.760|VEHICULOS FAMILIARES|Mas de 2.500 c.c.|10 o mas años|468.110|VEHICULOS 6 o mas pasajeros|Menos de 2.500 c.c.|Menos de 10 años|494.660|VEHICULOS 6 o mas pasajeros|Menos de 2.500 c.c.|10 o mas años|631.610|VEHICULOS 6 o mas pasajeros|2.500 o mas c.c.|Menos de 10 años|662.210|VEHICULOS 6 o mas pasajeros|2.500 o mas c.c.|10 o mas años|794.960|AUTOS NEGOCIO|Menos de 1.500 c.c.|Menos de 10 años|343.910|AUTOS NEGOCIO|Menos de 1.500 c.c.|10 o mas años|429.410|AUTOS NEGOCIO|Entre 1.500 y 2.500 c.c.|Menos de 10 años|427.160|AUTOS NEGOCIO|Entre 1.500 y 2.500 c.c.|10 o mas años|527.960|AUTOS NEGOCIO|Mas de 2.500 c.c.|Menos de 10 años|551.060|AUTOS NEGOCIO|Mas de 2.500 c.c.|10 o mas años|646.610|BUSES Y BUSETAS URBANOS|||806.060|SERVICIO PUBLICO INTERMUNIPAL|Menos de 10 pasajeros||813.410|SERVICIO PUBLICO INTERMUNIPAL|10 o mas pasajeros||1.180.460|
+CICLOMOTOR|||153.860|
+MOTOS|Menos de 100 c.c.||306.260|
+MOTOS|Entre 100 y 200 c.c.||410.660|
+MOTOS|Mas de 200 c.c.||463.010|
+MOTO CARRO, TRICIMOTO Y CUADRICICLO|||463.010|
+CAMPEROS Y CAMIONETAS|Menos de 1.500 c.c.|Menos de 10 anyos|491.810|
+CAMPEROS Y CAMIONETAS|Menos de 1.500 c.c.|10 o mas anyos|591.410|
+CAMPEROS Y CAMIONETAS|Entre  1.500 y 2.500 c.c.|Menos de 10 anyos|587.210|
+CAMPEROS Y CAMIONETAS|Entre  1.500 y 2.500 c.c.|10 o mas anyos|695.660|
+CAMPEROS Y CAMIONETAS|Mas de 2.500 c.c.|Menos de 10 anyos|688.760|
+CAMPEROS Y CAMIONETAS|Mas de 2.500 c.c.|10 o mas anyos|790.460|
+CARGA O MIXTO|Menos de 5 Toneladas||551.060|
+CARGA O MIXTO|Entre 5 y 15 Toneladas||795.710|
+CARGA O MIXTO|Mas de 15 Toneladas||1.006.010|
+OFICIALES ESPECIALES|Menos de 1.500 c.c.||620.060|
+OFICIALES ESPECIALES|Entre de 1.500 y 2.500 c.c.||781.610|
+OFICIALES ESPECIALES|Mas de 2.500 c.c.||937.010|
+VEHICULOS FAMILIARES|Menos de 1.500 c.c.|Menos de 10 anyos|277.460|
+VEHICULOS FAMILIARES|Menos de 1.500 c.c.|10 o mas anyos|367.760|
+VEHICULOS FAMILIARES|Entre 1.500 y 2.500 c.c.|Menos de 10 anyos|337.910|
+VEHICULOS FAMILIARES|Entre 1.500 y 2.500 c.c.|10 o mas anyos|420.260|
+VEHICULOS FAMILIARES|Mas de 2.500 c.c.|Menos de 10 anyos|394.760|
+VEHICULOS FAMILIARES|Mas de 2.500 c.c.|10 o mas anyos|468.110|
+VEHICULOS 6 o mas pasajeros|Menos de 2.500 c.c.|Menos de 10 anyos|494.660|
+VEHICULOS 6 o mas pasajeros|Menos de 2.500 c.c.|10 o mas anyos|631.610|
+VEHICULOS 6 o mas pasajeros|2.500 o mas c.c.|Menos de 10 anyos|662.210|
+VEHICULOS 6 o mas pasajeros|2.500 o mas c.c.|10 o mas anyos|794.960|
+AUTOS NEGOCIO|Menos de 1.500 c.c.|Menos de 10 anyos|343.910|
+AUTOS NEGOCIO|Menos de 1.500 c.c.|10 o mas anyos|429.410|
+AUTOS NEGOCIO|Entre 1.500 y 2.500 c.c.|Menos de 10 anyos|427.160|
+AUTOS NEGOCIO|Entre 1.500 y 2.500 c.c.|10 o mas anyos|527.960|
+AUTOS NEGOCIO|Mas de 2.500 c.c.|Menos de 10 anyos|551.060|
+AUTOS NEGOCIO|Mas de 2.500 c.c.|10 o mas anyos|646.610|
+BUSES Y BUSETAS URBANOS|||806.060|
+SERVICIO PUBLICO INTERMUNIPAL|Menos de 10 pasajeros||813.410|
+SERVICIO PUBLICO INTERMUNIPAL|10 o mas pasajeros||1.180.460|

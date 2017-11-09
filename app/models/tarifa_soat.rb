@@ -1,0 +1,2 @@
+class TarifaSoat < ApplicationRecord
+end

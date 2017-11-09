@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo: MyString
+  clasif1: MyString
+  clasif2: MyString
+  valor: MyString
+
+two:
+  tipo: MyString
+  clasif1: MyString
+  clasif2: MyString
+  valor: MyString
