@@ -6,6 +6,7 @@ export default class Tomador extends React.Component {
      // this is passed from the Rails view
     nombres: PropTypes.string.isRequired,
     apellidos: PropTypes.string.isRequired,
+    documento: PropTypes.string.isRequired,
   };
 
   /**
@@ -18,7 +19,7 @@ export default class Tomador extends React.Component {
     // https://facebook.github.io/react/docs/reusable-components.html#es6-classes
 
 
-    this.state = { nombres: this.props.nombres, apellidos: this.props.apellidos };
+    this.state = { nombres: this.props.nombres, apellidos: this.props.apellidos, documento: this.props.documento };
 
   }
 
@@ -30,11 +31,12 @@ export default class Tomador extends React.Component {
     this.setState({ apellidos });
   };
 
-  updateTomador = (nombres, apellidos) =>{
-    this.setState({ nombres });
-    this.setState({ apellidos });
-  };
+ updateDatos =(documento) =>{
 
+   this.setState({ documento });
+   this.state.nombres="Nombres Buscados"
+   this.state.apellidos="Apellidos Buscados"
+ };
 
 
   render() {
@@ -45,14 +47,15 @@ export default class Tomador extends React.Component {
         </h3>
         <hr />
         <form >
-          <label htmlFor="name">
+          <label htmlFor="doc">
             Documento:
           </label>
           <input
-            id="name"
+            id="doc"
             type="text"
             value={this.state.name}
             onChange={(e) => this.updateName(e.target.value)}
+            onBlur={(e) => this.updateDatos(e.target.value)}
           />
           <label htmlFor="name">
             Nombre:
