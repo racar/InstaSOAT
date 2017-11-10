@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  placa: MyString
+  tarifa_soat_id: 1
+  num_pasajeros: 1
+
+two:
+  placa: MyString
+  tarifa_soat_id: 1
+  num_pasajeros: 1

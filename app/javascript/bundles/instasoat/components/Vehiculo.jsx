@@ -1,9 +1,9 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-export default class HelloWorld extends React.Component {
+export default class Vehiculo extends React.Component {
   static propTypes = {
-    name: PropTypes.string.isRequired, // this is passed from the Rails view
+    placa: PropTypes.string.isRequired, // this is passed from the Rails view
   };
 
   /**
@@ -14,31 +14,34 @@ export default class HelloWorld extends React.Component {
 
     // How to set initial state in ES6 class syntax
     // https://facebook.github.io/react/docs/reusable-components.html#es6-classes
-    this.state = { name: this.props.name };
+    this.state = { placa: this.props.placa, tarifas: this.props.tarifas };
+
   }
 
-  updateName = (name) => {
-    this.setState({ name });
+  updateName = (placa) => {
+    this.setState({ placa });
   };
 
   render() {
     return (
       <div>
-        <h3>
-          Hello, {this.state.name}!
+        <h3 className="blue">
+          Placa: {this.state.placa}
+
         </h3>
         <hr />
         <form >
-          <label htmlFor="name">
-            Say hello to:
+          <label htmlFor="placa">
+            Placa del vehiculo:
           </label>
           <input
-            id="name"
+            id="placa"
             type="text"
-            value={this.state.name}
+            value={this.state.placa}
             onChange={(e) => this.updateName(e.target.value)}
           />
         </form>
+        Tarifas:
       </div>
     );
   }

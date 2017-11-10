@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SOAT al instante layout</title>
+    <%= csrf_meta_tags %>
+    <%= javascript_pack_tag 'instasoat-bundle' %>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
